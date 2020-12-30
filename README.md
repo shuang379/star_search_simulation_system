@@ -1,3 +1,4 @@
+## Star Search Simulation System 
 ### Project Overview
 
 This project is to develop a star search simulation system for space exploration. The simulation uses small drones, which are semi-autonomous spacecraft, to explore remote areas of space. Drones can occasionally receive commands directly from human controllers. However, they generally conduct exploration activities using only their own internal capabilities. The system is able to read in a file which describes the specific scenario, including the characteristics of the space region to be explored, the capabilities of the drones, and other details about the simulation run. 
