@@ -4,7 +4,7 @@ This project is to develop a star search simulation system for space exploration
 
 ### System Design
 
-**Deliverables**: [Class Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/class_diagram.png), [Sequence Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/sequence_diagram.png)
+**Deliverables**: [Class Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/class_diagram.png), [Sequence Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/sequence_diagram.png)
 
 The simulation system monitors the actions of a group of drones as they chart the given space region and tracks the states of all associated objects in the simulation. The specifications for each object are as follows:
 
@@ -18,6 +18,6 @@ The simulation system monitors the actions of a group of drones as they chart th
 
 
 
-**Other Docs**: [Use Case Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/use_case_diagram.png), [Deployment Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/deployment_diagram.png)
+**Other Docs**: [Use Case Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/use_case_diagram.png), [Deployment Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/deployment_diagram.png)
 
 **Reference**: CS6300 class documentation @ Georgia Institute of Technology
