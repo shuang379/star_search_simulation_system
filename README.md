@@ -20,4 +20,4 @@ The simulation system monitors the actions of a group of drones as they chart th
 
 **Other Docs**: [Use Case Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/use_case_diagram.png), [Deployment Diagram](https://github.com/shuang379/star_search_simulation_system/blob/main/docs/deployment_diagram.png)
 
-**Reference**: CS6300 class documentation @ Georgia Institute of Technology
+**Reference**: CS6310 Software Architecture & Design @ Georgia Institute of Technology
